@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/hijkpw/scripts/master/ubuntu_install_v2ray2.sh -O v2ray.sh; bash v2ray.sh
